@@ -1,4 +1,4 @@
-### Hi there 👋, I am Antonio!
+### Hi there 👋, I am Antonio!  
 
 <!--
 **antoniorl01/antoniorl01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-😄 I am a Junior Software Developer currently studying Computer Engineering at UNED. I'm also working at Solera as a software developer.
-💻 Technologies: Python, Flask, Java, SpringBoot, Javascript, React, HTML, CSS.
+😄 I am a Junior Software Developer currently studying Computer Engineering at UNED. I'm also working at Solera as a software developer.  
+💻 Technologies: Python, Flask, Java, SpringBoot, Javascript, React, HTML, CSS.  
 💬 I'm fluent in both spanish and english.
 
