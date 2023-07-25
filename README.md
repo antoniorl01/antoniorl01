@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 😄 I am a Junior Software Developer currently studying Computer Engineering at UNED. I'm also working at Solera as a software developer.  
-💻 Technologies: Python, Flask, Java, SpringBoot, Javascript, React, HTML, CSS.  
+💻 Technologies: Golang, Java, Javascript, React, HTML, CSS.  
 💬 I'm fluent in both spanish and english.
 
