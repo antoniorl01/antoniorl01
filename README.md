@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-😄 I am a Junior Software Developer currently studying Computer Engineering at UNED. I'm also working at Ria Money Transfer as a software developer.  
+😄 I am a Software Developer currently studying Computer Engineering at UNED. I'm also working at Ria Money Transfer as a software developer.  
 💻 Technologies: Python, Golang, Java, C#, Javascript, React, HTML, CSS.  
 💬 I'm fluent in both spanish and english.
 
